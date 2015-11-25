@@ -4,7 +4,7 @@
  * Copyright 2015 Ennexa Technologies (P) Ltd | http://www.ennexa.com/
  * Licensed under the GPLv2 license
  */
-
+/*! http://git.io/cookie | © Ennexa Technologies | http://www.ennexa.com/ */
 jQuery.cookie = function (name, value, options) {
 	if (typeof value != 'undefined') {
 		options = options || {};
